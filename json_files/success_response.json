@@ -1,0 +1,8 @@
+{
+    "message": "Data fetched successfully",
+    "data": {
+        "id": 1,
+        "title": "Sample Title",
+        "body": "Sample body content."
+    }
+}
